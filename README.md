@@ -1,5 +1,5 @@
 
-# 📄 Chat with PDF Interface 📄
+# 📄 Chat with PDF Using RAG Pipeline 📄
 
 Welcome to the **Chat with PDF** project! This application allows users to upload a PDF file, extract text, and query the content using Natural Language Processing (NLP) techniques. 
 
